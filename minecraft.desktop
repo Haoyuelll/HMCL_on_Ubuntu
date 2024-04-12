@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Minecraft
+Name[zh_CN]=Minecraft
+Comment=Minecraft HMCL
+Exec=sh ~/Downloads/HMCL_on_Ubuntu/minecraft.sh
+Icon=~/Downloads/HMCL_on_Ubuntu/Minecraft-icon.png
+Terminal=true
+Type=Application
+Categories=Application;
+Encoding=UTF-8
+StartupNotify=true
